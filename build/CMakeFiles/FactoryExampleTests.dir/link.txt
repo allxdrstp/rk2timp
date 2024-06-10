@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/FactoryExampleTests.dir/test.cpp.o -o FactoryExampleTests  -Wl,-rpath,/home/alexandra/Папка/build libFactory.so 

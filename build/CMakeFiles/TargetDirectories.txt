@@ -1,0 +1,6 @@
+/home/alexandra/Папка/build/CMakeFiles/Factory.dir
+/home/alexandra/Папка/build/CMakeFiles/FactoryExample.dir
+/home/alexandra/Папка/build/CMakeFiles/FactoryExampleTests.dir
+/home/alexandra/Папка/build/CMakeFiles/test.dir
+/home/alexandra/Папка/build/CMakeFiles/edit_cache.dir
+/home/alexandra/Папка/build/CMakeFiles/rebuild_cache.dir

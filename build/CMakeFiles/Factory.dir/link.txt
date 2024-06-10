@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -shared -Wl,-soname,libFactory.so -o libFactory.so CMakeFiles/Factory.dir/Factory.cpp.o 
